@@ -1,9 +1,12 @@
 d:\用户目录\documents\visual studio 2013\Projects\Podcast\Podcast\bin\Debug\Podcast.exe.config
 d:\用户目录\documents\visual studio 2013\Projects\Podcast\Podcast\bin\Debug\Podcast.exe
 d:\用户目录\documents\visual studio 2013\Projects\Podcast\Podcast\bin\Debug\Podcast.pdb
-d:\用户目录\documents\visual studio 2013\Projects\Podcast\Podcast\obj\Debug\Podcast.Form1.resources
 d:\用户目录\documents\visual studio 2013\Projects\Podcast\Podcast\obj\Debug\Podcast.Properties.Resources.resources
 d:\用户目录\documents\visual studio 2013\Projects\Podcast\Podcast\obj\Debug\Podcast.csproj.GenerateResource.Cache
 d:\用户目录\documents\visual studio 2013\Projects\Podcast\Podcast\obj\Debug\Podcast.exe
 d:\用户目录\documents\visual studio 2013\Projects\Podcast\Podcast\obj\Debug\Podcast.pdb
-d:\用户目录\Documents\Visual Studio 2013\Projects\Podcast\Podcast\obj\Debug\Podcast.csprojResolveAssemblyReference.cache
+D:\用户目录\Documents\Visual Studio 2013\Projects\Podcast\Podcast\bin\Debug\OptionControl.pdb
+D:\用户目录\Documents\Visual Studio 2013\Projects\Podcast\Podcast\obj\Debug\Podcast.csprojResolveAssemblyReference.cache
+D:\用户目录\Documents\Visual Studio 2013\Projects\Podcast\Podcast\obj\Debug\Podcast.MainForm.resources
+D:\用户目录\Documents\Visual Studio 2013\Projects\Podcast\Podcast\obj\Debug\Podcast.Settings.resources
+D:\用户目录\Documents\Visual Studio 2013\Projects\Podcast\Podcast\obj\Debug\Podcast.BatchDownloading.resources
