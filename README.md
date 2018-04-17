@@ -1,2 +1,2 @@
 ### ESLPodcast
-This software is used for downloading ESL episodes.
+由于官网开始收费,该软件已失效
